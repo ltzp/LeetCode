@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3799b7-7660-407f-b89f-72359879e6e4" name="Default Changelist" comment="2020.11.04 26岁生日题目">
+    <list default="true" id="7a3799b7-7660-407f-b89f-72359879e6e4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,6 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode147_.coverage" NAME="LeetCode147_对链表进行插入排序 Coverage Results" MODIFIED="1605887073930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/链表" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode973_K.coverage" NAME="LeetCode973_最接近原点的K个数 Coverage Results" MODIFIED="1605004165191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode129_DFS.coverage" NAME="LeetCode129_树的DFS Coverage Results" MODIFIED="1603983515375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/图" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode72_.coverage" NAME="LeetCode72_全排列 Coverage Results" MODIFIED="1605426470868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS/回溯" />
@@ -18,13 +19,17 @@
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode1030_.coverage" NAME="LeetCode1030_距离顺序排列矩阵单元格 Coverage Results" MODIFIED="1605627646453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode60_star.coverage" NAME="LeetCode60_star Coverage Results" MODIFIED="1605425995416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS/回溯" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode922_.coverage" NAME="LeetCode922_按奇偶排序数组 Coverage Results" MODIFIED="1605195116402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode1_.coverage" NAME="LeetCode1_两数之和 Coverage Results" MODIFIED="1605960643649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode402_K.coverage" NAME="LeetCode402_移掉K位数字 Coverage Results" MODIFIED="1605453487921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/滑动窗口" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode452_.coverage" NAME="LeetCode452_最少数量的剑引爆气球 Coverage Results" MODIFIED="1606135791718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode526.coverage" NAME="LeetCode526优美的排列 Coverage Results" MODIFIED="1605425956169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS/回溯" />
     <SUITE FILE_PATH="coverage/LeetCode$1_n.coverage" NAME="输出1-n无重复的偶数 Coverage Results" MODIFIED="1605427931161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS/回溯" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode941_.coverage" NAME="LeetCode941_有效的山脉数组 Coverage Results" MODIFIED="1604378546584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode1356_1.coverage" NAME="LeetCode1356_根据数字二进制下的1的数目排序 Coverage Results" MODIFIED="1604635641650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode134_.coverage" NAME="LeetCode134_加油站 Coverage Results" MODIFIED="1605707551739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode57_.coverage" NAME="LeetCode57_插入区间 Coverage Results" MODIFIED="1604501912987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode57__2.coverage" NAME="LeetCode57_插入区间_2 Coverage Results" MODIFIED="1604491186600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode242_.coverage" NAME="LeetCode242_有效的字母异位词 Coverage Results" MODIFIED="1606054185594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode31_.coverage" NAME="LeetCode31_下一个排列组合 Coverage Results" MODIFIED="1605013048603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode56_.coverage" NAME="LeetCode56_合并区间 Coverage Results" MODIFIED="1604504478092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode122_II.coverage" NAME="LeetCode122_买卖股票的最佳时机II Coverage Results" MODIFIED="1604841638699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
@@ -34,29 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/滑动窗口/LeetCode402_移掉K位数字.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/贪心算法/LeetCode452_最少数量的剑引爆气球.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/贪心算法/LeetCode406_根据身高重新队列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/每日一题/LeetCode1030_距离顺序排列矩阵单元格.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="18" selection-start-line="18" selection-end-line="39" selection-end-column="18" />
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -102,6 +89,11 @@
         <option value="$PROJECT_DIR$/贪心算法/LeetCode406_根据身高重新队列.py" />
         <option value="$PROJECT_DIR$/每日一题/LeetCode1030.py" />
         <option value="$PROJECT_DIR$/每日一题/LeetCode1030_距离顺序排列矩阵单元格.py" />
+        <option value="$PROJECT_DIR$/每日一题/LeetCode134_加油站.py" />
+        <option value="$PROJECT_DIR$/链表/LeetCode147_对链表进行插入排序.py" />
+        <option value="$PROJECT_DIR$/HashMap/LeetCode1_两数之和.py" />
+        <option value="$PROJECT_DIR$/HashMap/LeetCode242_有效的字母异位词.py" />
+        <option value="$PROJECT_DIR$/贪心算法/LeetCode452_最少数量的剑引爆气球.py" />
       </list>
     </option>
   </component>
@@ -128,11 +120,6 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="每日一题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -150,16 +137,16 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/BFS/__init__.py" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\LeetCodePython\DFS\回溯" />
+      <recent name="F:\LeetCodePython\图" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BFS" />
       <recent name="$PROJECT_DIR$/数组" />
       <recent name="$PROJECT_DIR$/HashMap" />
       <recent name="F:\LeetCodePython\DFS\回溯" />
       <recent name="F:\LeetCodePython\双指针" />
-      <recent name="F:\LeetCodePython\位运算" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\LeetCodePython\DFS\回溯" />
-      <recent name="F:\LeetCodePython\图" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,30 +161,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode1030_距离顺序排列矩阵单元格">
-    <configuration name="输出1-n无重复的偶数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCodePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS/回溯" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/回溯/输出1-n无重复的偶数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LeetCode1030_距离顺序排列矩阵单元格" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.LeetCode452_最少数量的剑引爆气球">
+    <configuration name="LeetCode134_加油站" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +175,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS/LeetCode1030_距离顺序排列矩阵单元格.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/LeetCode134_加油站.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode402_移掉K位数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode147_对链表进行插入排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,12 +192,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/滑动窗口" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/链表" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/滑动窗口/LeetCode402_移掉K位数字.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/链表/LeetCode147_对链表进行插入排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode60_star" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode1_两数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,12 +214,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS/回溯" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HashMap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/回溯/LeetCode60_star.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashMap/LeetCode1_两数之和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode72_全排列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode242_有效的字母异位词" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,12 +236,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS/回溯" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HashMap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/回溯/LeetCode72_全排列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HashMap/LeetCode242_有效的字母异位词.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LeetCode452_最少数量的剑引爆气球" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/贪心算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/贪心算法/LeetCode452_最少数量的剑引爆气球.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LeetCode1030_距离顺序排列矩阵单元格" />
-        <item itemvalue="Python.LeetCode402_移掉K位数字" />
-        <item itemvalue="Python.输出1-n无重复的偶数" />
-        <item itemvalue="Python.LeetCode72_全排列" />
-        <item itemvalue="Python.LeetCode60_star" />
+        <item itemvalue="Python.LeetCode452_最少数量的剑引爆气球" />
+        <item itemvalue="Python.LeetCode242_有效的字母异位词" />
+        <item itemvalue="Python.LeetCode1_两数之和" />
+        <item itemvalue="Python.LeetCode147_对链表进行插入排序" />
+        <item itemvalue="Python.LeetCode134_加油站" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +313,12 @@
       <workItem from="1605423421445" duration="4377000" />
       <workItem from="1605445915532" duration="4118000" />
       <workItem from="1605536138477" duration="849000" />
-      <workItem from="1605623063730" duration="2573000" />
+      <workItem from="1605623063730" duration="2807000" />
+      <workItem from="1605693799452" duration="4006000" />
+      <workItem from="1605882486635" duration="4723000" />
+      <workItem from="1605958150446" duration="1962000" />
+      <workItem from="1606053686017" duration="950000" />
+      <workItem from="1606128592982" duration="1973000" />
     </task>
     <task id="LOCAL-00001" summary="2020.11.04">
       <created>1604500778977</created>
@@ -349,11 +341,18 @@
       <option name="project" value="LOCAL" />
       <updated>1604637450790</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2020.11.18">
+      <created>1605628830129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605628830129</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60882000" />
+    <option name="totallyTimeSpent" value="74730000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,10 +364,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.2453505" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.26323318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50089765" side_tool="true" weight="0.2746781" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -438,7 +437,8 @@
     <MESSAGE value="2020.11.04" />
     <MESSAGE value="2020.11.04 26岁生日题目" />
     <MESSAGE value="2020.11.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.11.06" />
+    <MESSAGE value="2020.11.18" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.11.18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -814,9 +814,24 @@
           <option name="timeStamp" value="162" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/每日一题/LeetCode1030_距离顺序排列矩阵单元格.py</url>
+          <url>file://$PROJECT_DIR$/BFS/LeetCode1030_距离顺序排列矩阵单元格.py</url>
           <line>27</line>
           <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/链表/LeetCode147_对链表进行插入排序.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HashMap/LeetCode1_两数之和.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HashMap/LeetCode1_两数之和.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="169" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -981,10 +996,10 @@
     <entry file="file://$PROJECT_DIR$/DFS/回溯/LeetCode40_数组总和2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/滑动窗口/LeetCode402_移掉K位数字.py">
+    <entry file="file://$PROJECT_DIR$/BFS/LeetCode1030_距离顺序排列矩阵单元格.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="260">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -995,10 +1010,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/每日一题/LeetCode1030_距离顺序排列矩阵单元格.py">
+    <entry file="file://$PROJECT_DIR$/滑动窗口/LeetCode402_移掉K位数字.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="18" selection-start-line="18" selection-end-line="39" selection-end-column="18" />
+        <state relative-caret-position="141">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/LeetCode134_加油站.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashMap/LeetCode1_两数之和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/链表/LeetCode147_对链表进行插入排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashMap/LeetCode242_有效的字母异位词.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/贪心算法/LeetCode452_最少数量的剑引爆气球.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
