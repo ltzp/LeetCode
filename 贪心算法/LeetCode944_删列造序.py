@@ -26,6 +26,7 @@ class Solution(object):
                     break
         return res
 
+
 if __name__ == "__main__":
     solve = Solution()
     A = ["zyx", "wvu", "tsr"]
