@@ -11,19 +11,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode503_II.coverage" NAME="LeetCode503_下一个更大元素II Coverage Results" MODIFIED="1606489246846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/栈/单调栈" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode739_.coverage" NAME="LeetCode739_每日温度 Coverage Results" MODIFIED="1606490126471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/栈/单调栈" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode147_.coverage" NAME="LeetCode147_对链表进行插入排序 Coverage Results" MODIFIED="1605887073930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/链表" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode973_K.coverage" NAME="LeetCode973_最接近原点的K个数 Coverage Results" MODIFIED="1605004165191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode1030_.coverage" NAME="LeetCode1030_距离顺序排列矩阵单元格 Coverage Results" MODIFIED="1605627646453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
-    <SUITE FILE_PATH="coverage/LeetCode$LeetCode1403_.coverage" NAME="LeetCode1403_非递增顺序的最小子序列 Coverage Results" MODIFIED="1606398544598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode84_.coverage" NAME="LeetCode84_柱状图中最大的矩形 Coverage Results" MODIFIED="1606643634681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/栈/单调栈" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode1403_.coverage" NAME="LeetCode1403_非递增顺序的最小子序列 Coverage Results" MODIFIED="1606402809180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode60_star.coverage" NAME="LeetCode60_star Coverage Results" MODIFIED="1605425995416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS/回溯" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode922_.coverage" NAME="LeetCode922_按奇偶排序数组 Coverage Results" MODIFIED="1605195116402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode526.coverage" NAME="LeetCode526优美的排列 Coverage Results" MODIFIED="1605425956169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS/回溯" />
     <SUITE FILE_PATH="coverage/LeetCode$1_n.coverage" NAME="输出1-n无重复的偶数 Coverage Results" MODIFIED="1605427931161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS/回溯" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode239_.coverage" NAME="LeetCode239_滑动窗口最大值 Coverage Results" MODIFIED="1606640201371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/栈/单调栈" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode941_.coverage" NAME="LeetCode941_有效的山脉数组 Coverage Results" MODIFIED="1604378546584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode1356_1.coverage" NAME="LeetCode1356_根据数字二进制下的1的数目排序 Coverage Results" MODIFIED="1604635641650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode134_.coverage" NAME="LeetCode134_加油站 Coverage Results" MODIFIED="1605707551739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode57_.coverage" NAME="LeetCode57_插入区间 Coverage Results" MODIFIED="1604501912987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode57__2.coverage" NAME="LeetCode57_插入区间_2 Coverage Results" MODIFIED="1604491186600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode496_I.coverage" NAME="LeetCode496_下一个更大元素I Coverage Results" MODIFIED="1606487088073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/栈/单调栈" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode42_.coverage" NAME="LeetCode42_接雨水 Coverage Results" MODIFIED="1606485688440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/栈/单调栈" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode493_.coverage" NAME="LeetCode493_翻转对 Coverage Results" MODIFIED="1606577137479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode242_.coverage" NAME="LeetCode242_有效的字母异位词 Coverage Results" MODIFIED="1606054185594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode1217_.coverage" NAME="LeetCode1217_玩筹码 Coverage Results" MODIFIED="1606317701554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode435.coverage" NAME="LeetCode435 Coverage Results" MODIFIED="1606138541513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
@@ -32,36 +39,85 @@
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode129_DFS.coverage" NAME="LeetCode129_树的DFS Coverage Results" MODIFIED="1603983515375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/图" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode72_.coverage" NAME="LeetCode72_全排列 Coverage Results" MODIFIED="1605426470868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS/回溯" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode140_2.coverage" NAME="LeetCode140_拆分单词2 Coverage Results" MODIFIED="1604244033885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/动态规划" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode621__.coverage" NAME="LeetCode621_任务调度_填桶法 Coverage Results" MODIFIED="1606579552171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode1005_K.coverage" NAME="LeetCode1005_K次取反后最大化的数组和 Coverage Results" MODIFIED="1606313501119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode1_.coverage" NAME="LeetCode1_两数之和 Coverage Results" MODIFIED="1605960643649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HashMap" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode402_K.coverage" NAME="LeetCode402_移掉K位数字 Coverage Results" MODIFIED="1605453487921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/滑动窗口" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode452_.coverage" NAME="LeetCode452_最少数量的剑引爆气球 Coverage Results" MODIFIED="1606135791718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode874_.coverage" NAME="LeetCode874_模拟行走机器人 Coverage Results" MODIFIED="1606220293052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode767_.coverage" NAME="LeetCode767_重构字符串 Coverage Results" MODIFIED="1606637763893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/填桶法" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode1221_.coverage" NAME="LeetCode1221_分割平衡字符串 Coverage Results" MODIFIED="1606317761028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode222_.coverage" NAME="LeetCode222_安全二叉树的节点个数 Coverage Results" MODIFIED="1606217282736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode164_.coverage" NAME="LeetCode164_最大间距 Coverage Results" MODIFIED="1606397796345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode316_.coverage" NAME="LeetCode316_去除重复字母 Coverage Results" MODIFIED="1606403943579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode56_.coverage" NAME="LeetCode56_合并区间 Coverage Results" MODIFIED="1604504478092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数组" />
     <SUITE FILE_PATH="coverage/LeetCode$LeetCode944_.coverage" NAME="LeetCode944_删列造序 Coverage Results" MODIFIED="1606229091906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心算法" />
+    <SUITE FILE_PATH="coverage/LeetCode$LeetCode976_.coverage" NAME="LeetCode976_三角形最大周长 Coverage Results" MODIFIED="1606632241367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/每日一题" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="LeetCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序/LeetCode164_最大间距.py">
+        <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode503_下一个更大元素II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="412">
+              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode496_下一个更大元素I.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode239_滑动窗口最大值.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/贪心算法/LeetCode1403_非递增顺序的最小子序列.py">
+        <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode84_柱状图中最大的矩形.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            <state relative-caret-position="130">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode42_接雨水.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="23" column="78" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode739_每日温度.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode901_股票价格跨度.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="26" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -123,6 +179,18 @@
         <option value="$PROJECT_DIR$/贪心算法/LeetCode1221_分割平衡字符串.py" />
         <option value="$PROJECT_DIR$/排序/LeetCode164_最大间距.py" />
         <option value="$PROJECT_DIR$/贪心算法/LeetCode1403_非递增顺序的最小子序列.py" />
+        <option value="$PROJECT_DIR$/贪心算法/LeetCode316_去除重复字母.py" />
+        <option value="$PROJECT_DIR$/栈/单调栈/LeetCode496_下一个更大元素I.py" />
+        <option value="$PROJECT_DIR$/栈/单调栈/LeetCode503_下一个更大元素II.py" />
+        <option value="$PROJECT_DIR$/栈/单调栈/LeetCode739_每日温度.py" />
+        <option value="$PROJECT_DIR$/每日一题/LeetCode493_翻转对.py" />
+        <option value="$PROJECT_DIR$/贪心算法/LeetCode621_任务调度_填桶法.py" />
+        <option value="$PROJECT_DIR$/每日一题/LeetCode976_三角形最大周长.py" />
+        <option value="$PROJECT_DIR$/填桶法/LeetCode767_重构字符串.py" />
+        <option value="$PROJECT_DIR$/栈/单调栈/LeetCode901_股票价格跨度.py" />
+        <option value="$PROJECT_DIR$/栈/单调栈/LeetCode239_滑动窗口最大值.py" />
+        <option value="$PROJECT_DIR$/栈/单调栈/LeetCode42_接雨水.py" />
+        <option value="$PROJECT_DIR$/栈/单调栈/LeetCode84_柱状图中最大的矩形.py" />
       </list>
     </option>
   </component>
@@ -140,6 +208,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,13 +219,18 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
+              <item name="栈" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="栈" type="462c0819:PsiDirectoryNode" />
+              <item name="单调栈" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,16 +241,16 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/BFS/__init__.py" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\LeetCodePython\DFS\回溯" />
-      <recent name="F:\LeetCodePython\图" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/填桶法" />
+      <recent name="$PROJECT_DIR$/排序" />
       <recent name="$PROJECT_DIR$/BFS" />
       <recent name="$PROJECT_DIR$/数组" />
       <recent name="$PROJECT_DIR$/HashMap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\LeetCodePython\DFS\回溯" />
-      <recent name="F:\LeetCodePython\双指针" />
+      <recent name="F:\LeetCodePython\图" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -191,8 +265,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode1403_非递增顺序的最小子序列">
-    <configuration name="LeetCode1005_K次取反后最大化的数组和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.LeetCode84_柱状图中最大的矩形">
+    <configuration name="LeetCode239_滑动窗口最大值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/栈/单调栈" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/栈/单调栈/LeetCode239_滑动窗口最大值.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LeetCode621_任务调度_填桶法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,7 +301,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/贪心算法/LeetCode1005_K次取反后最大化的数组和.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/填桶法/LeetCode621_任务调度_填桶法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode1217_玩筹码" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode767_重构字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,12 +318,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/贪心算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/填桶法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/贪心算法/LeetCode1217_玩筹码.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/填桶法/LeetCode767_重构字符串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +332,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode1221_分割平衡字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode84_柱状图中最大的矩形" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,12 +340,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/贪心算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/栈/单调栈" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/贪心算法/LeetCode1221_分割平衡字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/栈/单调栈/LeetCode84_柱状图中最大的矩形.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +354,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode1403_非递增顺序的最小子序列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode976_三角形最大周长" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,34 +362,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/贪心算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/贪心算法/LeetCode1403_非递增顺序的最小子序列.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LeetCode164_最大间距" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCodePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/LeetCode164_最大间距.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/LeetCode976_三角形最大周长.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LeetCode1403_非递增顺序的最小子序列" />
-        <item itemvalue="Python.LeetCode164_最大间距" />
-        <item itemvalue="Python.LeetCode1221_分割平衡字符串" />
-        <item itemvalue="Python.LeetCode1217_玩筹码" />
-        <item itemvalue="Python.LeetCode1005_K次取反后最大化的数组和" />
+        <item itemvalue="Python.LeetCode84_柱状图中最大的矩形" />
+        <item itemvalue="Python.LeetCode239_滑动窗口最大值" />
+        <item itemvalue="Python.LeetCode767_重构字符串" />
+        <item itemvalue="Python.LeetCode976_三角形最大周长" />
+        <item itemvalue="Python.LeetCode621_任务调度_填桶法" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +425,11 @@
       <workItem from="1606128592982" duration="4422000" />
       <workItem from="1606213020928" duration="6577000" />
       <workItem from="1606307616979" duration="8729000" />
-      <workItem from="1606393296456" duration="3772000" />
+      <workItem from="1606393296456" duration="8475000" />
+      <workItem from="1606405249713" duration="355000" />
+      <workItem from="1606483131573" duration="3723000" />
+      <workItem from="1606573992833" duration="3510000" />
+      <workItem from="1606630825571" duration="9720000" />
     </task>
     <task id="LOCAL-00001" summary="2020.11.04">
       <created>1604500778977</created>
@@ -416,11 +494,18 @@
       <option name="project" value="LOCAL" />
       <updated>1606317857323</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2020.11.25">
+      <created>1606399352526</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606399352526</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96257000" />
+    <option name="totallyTimeSpent" value="118268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,16 +517,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.20314735" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.21459228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50089765" side_tool="true" weight="0.2746781" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284974" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32624114" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34300518" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32624114" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.34184396" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
@@ -924,62 +1009,45 @@
           <line>15</line>
           <option name="timeStamp" value="173" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/贪心算法/LeetCode316_去除重复字母.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/贪心算法/LeetCode316_去除重复字母.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/栈/单调栈/LeetCode42_接雨水.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/每日一题/LeetCode976_三角形最大周长.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/填桶法/LeetCode767_重构字符串.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/栈/单调栈/LeetCode239_滑动窗口最大值.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/栈/单调栈/LeetCode84_柱状图中最大的矩形.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/图/LeetCode129_树的DFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/LeetCode381_插入删除和获取随机元素.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/LeetCode845_数组中的最长山脉.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/LeetCode140_拆分单词2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///opt/anaconda3/lib/python3.8/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/位运算/Brian Kernighan/LeetCode201.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/位运算/Brian Kernighan/LeetCode461.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数组/LeetCode941_有效的山脉数组.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数组/LeetCode57_插入区间_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -1094,13 +1162,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/滑动窗口/LeetCode402_移掉K位数字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/每日一题/LeetCode134_加油站.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
@@ -1199,17 +1260,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/排序/LeetCode164_最大间距.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/贪心算法/LeetCode1403_非递增顺序的最小子序列.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/滑动窗口/LeetCode402_移掉K位数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="11" selection-start-line="8" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/贪心算法/LeetCode316_去除重复字母.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序/LeetCode493_翻转对.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序/LeetCode164_最大间距.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/每日一题/LeetCode976_三角形最大周长.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" selection-start-line="15" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/填桶法/LeetCode767_重构字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/填桶法/LeetCode621_任务调度_填桶法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="15" selection-start-line="15" selection-end-line="25" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode901_股票价格跨度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode739_每日温度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode503_下一个更大元素II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode496_下一个更大元素I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode239_滑动窗口最大值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode42_接雨水.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="23" column="78" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈/单调栈/LeetCode84_柱状图中最大的矩形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
