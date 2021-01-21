@@ -16,6 +16,8 @@ class Solution(object):
         """
 
 
+
+
 if __name__ == "__main__":
     solve = Solution()
     board = [["A", "B", "C", "E"], ["S", "F", "C", "S"], ["A", "D", "E", "E"]]
