@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3799b7-7660-407f-b89f-72359879e6e4" name="Default Changelist" comment="2021-03-05 栈实现队列">
+    <list default="true" id="7a3799b7-7660-407f-b89f-72359879e6e4" name="Default Changelist" comment="2021-03-07 栈实现中位数">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,15 +192,15 @@
       <recent name="F:\LeetCodePython\图" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/动态规划/最长递增子序列问题" />
+      <recent name="$PROJECT_DIR$/队列" />
       <recent name="$PROJECT_DIR$/动态规划" />
       <recent name="$PROJECT_DIR$/栈" />
       <recent name="$PROJECT_DIR$/查并集" />
-      <recent name="$PROJECT_DIR$/填桶法" />
-      <recent name="$PROJECT_DIR$/排序" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.寻找两个正序数组的中位数">
-    <configuration name="寻找两个正序数组的中位数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.快速排序">
+    <configuration name="希尔排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/腾讯" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/腾讯/寻找两个正序数组的中位数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/希尔排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode304_二维区域和检索" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/LeetCode304_二维区域和检索.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/冒泡排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode338_比特位计数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="插入排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/LeetCode338_比特位计数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/插入排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode354_俄罗斯套娃信封问题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="选择排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/LeetCode354_俄罗斯套娃信封问题.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/选择排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode674_最长连续递增序列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="快速排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/栈/LeetCode674_最长连续递增序列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/快速排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.寻找两个正序数组的中位数" />
-        <item itemvalue="Python.LeetCode354_俄罗斯套娃信封问题" />
-        <item itemvalue="Python.LeetCode338_比特位计数" />
-        <item itemvalue="Python.LeetCode304_二维区域和检索" />
-        <item itemvalue="Python.LeetCode674_最长连续递增序列" />
+        <item itemvalue="Python.快速排序" />
+        <item itemvalue="Python.希尔排序" />
+        <item itemvalue="Python.选择排序" />
+        <item itemvalue="Python.插入排序" />
+        <item itemvalue="Python.冒泡排序" />
       </list>
     </recent_temporary>
   </component>
@@ -515,7 +515,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614943068750</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2021-03-07 栈实现中位数">
+      <created>1615116705491</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1615116705491</updated>
+    </task>
+    <task id="LOCAL-00018" summary="最长递增子序列问题">
+      <created>1615210501804</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1615210501804</updated>
+    </task>
+    <task id="LOCAL-00019" summary="最长递增子序列问题-移动">
+      <created>1615210524236</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1615210524236</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -600,7 +621,10 @@
     <MESSAGE value="2021-03-03 动态规划1的个数" />
     <MESSAGE value="2021-03-04 最长上升子序列" />
     <MESSAGE value="2021-03-05 栈实现队列" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-03-05 栈实现队列" />
+    <MESSAGE value="2021-03-07 栈实现中位数" />
+    <MESSAGE value="最长递增子序列问题" />
+    <MESSAGE value="最长递增子序列问题-移动" />
+    <option name="LAST_COMMIT_MESSAGE" value="最长递增子序列问题-移动" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1114,6 +1138,11 @@
           <url>file://$PROJECT_DIR$/腾讯/寻找两个正序数组的中位数.py</url>
           <line>25</line>
           <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/排序/插入排序.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="200" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
