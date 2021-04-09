@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3799b7-7660-407f-b89f-72359879e6e4" name="Default Changelist" comment="2021-03-20 200 之前">
+    <list default="true" id="7a3799b7-7660-407f-b89f-72359879e6e4" name="Default Changelist" comment="2021-03-20 2021.3.27">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -199,8 +199,8 @@
       <recent name="$PROJECT_DIR$/动态规划" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LeetCode61_旋转链表">
-    <configuration name="LeetCode171_Excel表序列号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.LeetCode152_乘积最大子数组">
+    <configuration name="LeetCode1289_下降路径最小和II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/坐标型动态规划" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/LeetCode171_Excel表序列号.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/坐标型动态规划/LeetCode1289_下降路径最小和II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode172_阶乘后的零" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode152_乘积最大子数组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数学" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/序列型动态规划" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数学/LeetCode172_阶乘后的零.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/序列型动态规划/LeetCode152_乘积最大子数组.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode173_二叉搜索树迭代器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode279_完全平方数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/二插搜索树" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/背包问题/完全背包" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二插搜索树/LeetCode173_二叉搜索树迭代器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/背包问题/完全背包/LeetCode279_完全平方数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode456_132模式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode63_不同路径II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/坐标型动态规划" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/栈/单调栈/LeetCode456_132模式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/坐标型动态规划/LeetCode63_不同路径II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode61_旋转链表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode931_下降路径最小和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,74 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/每日一题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/坐标型动态规划" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/每日一题/LeetCode61_旋转链表.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="插入排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/插入排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="选择排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/选择排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="快速排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/快速排序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/坐标型动态规划/LeetCode931_下降路径最小和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LeetCode61_旋转链表" />
-        <item itemvalue="Python.LeetCode171_Excel表序列号" />
-        <item itemvalue="Python.LeetCode456_132模式" />
-        <item itemvalue="Python.LeetCode172_阶乘后的零" />
-        <item itemvalue="Python.LeetCode173_二叉搜索树迭代器" />
+        <item itemvalue="Python.LeetCode152_乘积最大子数组" />
+        <item itemvalue="Python.LeetCode1289_下降路径最小和II" />
+        <item itemvalue="Python.LeetCode931_下降路径最小和" />
+        <item itemvalue="Python.LeetCode63_不同路径II" />
+        <item itemvalue="Python.LeetCode279_完全平方数" />
       </list>
     </recent_temporary>
   </component>
@@ -648,7 +585,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616246470943</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2021-03-20 2021.3.27">
+      <created>1616839965583</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1616839965583</updated>
+    </task>
+    <task id="LOCAL-00028" summary="2021-03-20 2021.3.27">
+      <created>1617886476816</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1617886476816</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -743,7 +694,8 @@
     <MESSAGE value="2021-03-18 每日一题" />
     <MESSAGE value="2021-03-20 波兰表达式" />
     <MESSAGE value="2021-03-20 200 之前" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-03-20 200 之前" />
+    <MESSAGE value="2021-03-20 2021.3.27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-03-20 2021.3.27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1320,23 +1272,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/每日一题/LeetCode61_旋转链表.py</url>
-          <line>33</line>
+          <line>30</line>
           <option name="timeStamp" value="219" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/每日一题/LeetCode61_旋转链表.py</url>
-          <line>36</line>
+          <url>file://$PROJECT_DIR$/wwww.py</url>
+          <line>15</line>
           <option name="timeStamp" value="220" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/每日一题/LeetCode61_旋转链表.py</url>
-          <line>37</line>
+          <url>file://$PROJECT_DIR$/wwww.py</url>
+          <line>16</line>
           <option name="timeStamp" value="221" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/每日一题/LeetCode61_旋转链表.py</url>
-          <line>44</line>
+          <url>file://$PROJECT_DIR$/动态规划/背包问题/完全背包/LeetCode377_组合总和IV.py</url>
+          <line>45</line>
           <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/动态规划/背包问题/完全背包/LeetCode377_组合总和IV.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/动态规划/坐标型动态规划/LeetCode63_不同路径II.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/动态规划/序列型动态规划/LeetCode152_乘积最大子数组.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="226" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
