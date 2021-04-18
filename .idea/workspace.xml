@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3799b7-7660-407f-b89f-72359879e6e4" name="Default Changelist" comment="动态规划-区间型DP">
+    <list default="true" id="7a3799b7-7660-407f-b89f-72359879e6e4" name="Default Changelist" comment="前缀树的实现">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -199,8 +199,8 @@
       <recent name="$PROJECT_DIR$/队列" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LeetCode211_添加与搜索单词 - 数据结构设计">
-    <configuration name="网易" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.LeetCode1219_黄金矿工">
+    <configuration name="LeetCode1219_黄金矿工" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS/回溯" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网易.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/回溯/LeetCode1219_黄金矿工.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode5_最长回文子串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode212_单词搜索II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/区间DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS/回溯" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/区间DP/LeetCode5_最长回文子串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS/回溯/LeetCode212_单词搜索II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LeetCode1219_黄金矿工" />
+        <item itemvalue="Python.LeetCode212_单词搜索II" />
         <item itemvalue="Python.LeetCode211_添加与搜索单词 - 数据结构设计" />
         <item itemvalue="Python.LeetCode211_添加与搜索单词_map实现" />
         <item itemvalue="Python.LintCode1833_钢笔盒" />
-        <item itemvalue="Python.LeetCode5_最长回文子串" />
-        <item itemvalue="Python.网易" />
       </list>
     </recent_temporary>
   </component>
@@ -585,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618228542644</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="前缀树的实现">
+      <created>1618736926185</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1618736926186</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -657,7 +664,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2020.11.06" />
     <MESSAGE value="2020.11.18" />
     <MESSAGE value="2020.11.23" />
     <MESSAGE value="2020.11.24" />
@@ -682,7 +688,8 @@
     <MESSAGE value="动态规划" />
     <MESSAGE value="动态规划-序列型" />
     <MESSAGE value="动态规划-区间型DP" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划-区间型DP" />
+    <MESSAGE value="前缀树的实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="前缀树的实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1301,6 +1308,26 @@
           <url>file://$PROJECT_DIR$/前缀树/LeetCode211_添加与搜索单词 - 数据结构设计.py</url>
           <line>68</line>
           <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/回溯/LeetCode212_单词搜索II.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/回溯/LeetCode212_单词搜索II.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/回溯/LeetCode212_单词搜索II.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DFS/回溯/LeetCode1219_黄金矿工.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="233" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
