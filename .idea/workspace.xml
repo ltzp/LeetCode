@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3799b7-7660-407f-b89f-72359879e6e4" name="Default Changelist" comment="动态规划-序列型">
+    <list default="true" id="7a3799b7-7660-407f-b89f-72359879e6e4" name="Default Changelist" comment="动态规划-区间型DP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,14 +192,14 @@
       <recent name="F:\LeetCodePython\图" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/前缀树" />
       <recent name="$PROJECT_DIR$/栈/单调栈" />
       <recent name="$PROJECT_DIR$/位运算" />
       <recent name="$PROJECT_DIR$/动态规划/最长递增子序列问题" />
       <recent name="$PROJECT_DIR$/队列" />
-      <recent name="$PROJECT_DIR$/动态规划" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LeetCode5_最长回文子串">
+  <component name="RunManager" selected="Python.LeetCode211_添加与搜索单词 - 数据结构设计">
     <configuration name="网易" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode139_单词拆分" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode211_添加与搜索单词 - 数据结构设计" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/序列型动态规划" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/前缀树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/序列型动态规划/LeetCode139_单词拆分.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/前缀树/LeetCode211_添加与搜索单词 - 数据结构设计.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode300_最长递增子序列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode211_添加与搜索单词_map实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,32 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/序列型动态规划" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/前缀树" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/序列型动态规划/LeetCode300_最长递增子序列.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LeetCode516_最长回文字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/区间DP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/区间DP/LeetCode516_最长回文字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/前缀树/LeetCode211_添加与搜索单词_map实现.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,13 +284,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LintCode1833_钢笔盒" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/动态规划/区间DP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/动态规划/区间DP/LintCode1833_钢笔盒.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LeetCode211_添加与搜索单词 - 数据结构设计" />
+        <item itemvalue="Python.LeetCode211_添加与搜索单词_map实现" />
+        <item itemvalue="Python.LintCode1833_钢笔盒" />
         <item itemvalue="Python.LeetCode5_最长回文子串" />
         <item itemvalue="Python.网易" />
-        <item itemvalue="Python.LeetCode516_最长回文字符串" />
-        <item itemvalue="Python.LeetCode300_最长递增子序列" />
-        <item itemvalue="Python.LeetCode139_单词拆分" />
       </list>
     </recent_temporary>
   </component>
@@ -578,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618125721507</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="动态规划-区间型DP">
+      <created>1618228542644</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1618228542644</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -650,7 +657,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2020.11.04 26岁生日题目" />
     <MESSAGE value="2020.11.06" />
     <MESSAGE value="2020.11.18" />
     <MESSAGE value="2020.11.23" />
@@ -675,7 +681,8 @@
     <MESSAGE value="2021-03-20 2021.3.27" />
     <MESSAGE value="动态规划" />
     <MESSAGE value="动态规划-序列型" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划-序列型" />
+    <MESSAGE value="动态规划-区间型DP" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态规划-区间型DP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1284,6 +1291,16 @@
           <url>file://$PROJECT_DIR$/动态规划/序列型动态规划/LeetCode152_乘积最大子数组.py</url>
           <line>27</line>
           <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/前缀树/LeetCode211_添加与搜索单词 - 数据结构设计.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/前缀树/LeetCode211_添加与搜索单词 - 数据结构设计.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="228" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
