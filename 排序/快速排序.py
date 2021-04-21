@@ -15,23 +15,23 @@ class Solution(object):
         if left >= right:
             return
         pivot = nums[left]
-        low = left
-        high = right
-        while left < right:
-            while left < right and nums[right] >= pivot:
-                right -= 1
-            nums[left] = nums[right]
-            while left < right and nums[left] <= pivot:
-                left += 1
-            nums[right] = nums[left]
-        nums[right] = pivot
-        self.quick_sort(nums, low, right - 1)
-        self.quick_sort(nums, right + 1, high)
+        i = left
+        j = right
+        while i < j:
+            while i < j and nums[j] >= pivot:
+                j -= 1
+            nums[i] = nums[j]
+            while i < j and nums[i] <= pivot:
+                i += 1
+            nums[j] = nums[i]
+        nums[i] = pivot
+        self.quick_sort(nums, left, i - 1)
+        self.quick_sort(nums, i + 1, right)
         return nums
 
 
 if __name__ == '__main__':
     solve = Solution()
-    nums = [6, 5, 4, 7, 8, 3, 2, 9, 6]
+    nums = [6, 5, 4, 7, 8, 3, 2, 9]
     result = solve.quick_sort(nums, 0, len(nums) - 1)
     print(result)

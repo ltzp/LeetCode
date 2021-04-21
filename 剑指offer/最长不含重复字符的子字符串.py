@@ -17,28 +17,30 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        res = 0
         length = len(s)
         if length <= 1:
             return length
-        node = length
-        while node > 0:
-            i = 0
-            while i + node <= length:
-                str = s[i: i + node]
-                hash_map = dict()
-                for k in str:
-                    if k not in hash_map:
-                        hash_map[k] = 1
-                    else:
-                        break
-                if len(hash_map) == node:
-                    res = node
-                    return res
-                i += 1
-            node -= 1
+        windows = {}
+        res = 0
+        left, right = 0,0
+        while right < length:
+            cur = s[right]
+            right += 1
+            if cur not in windows:
+                windows[cur] = 1
+            else:
+                windows[cur] += 1
+            while windows[cur] > 1:
+                move_char = s[left]
+                left += 1
+                windows[move_char] -= 1
+            res = max(res, right - left)
         return res
 
 
+
 if __name__ == '__main__':
-    pass
+    solve = Solution()
+    s = "abcabcbb"
+    result = solve.lengthOfLongestSubstring(s)
+    print(result)
